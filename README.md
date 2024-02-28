@@ -12,11 +12,11 @@ Qui potrai mettere in pratica tutte le tue conoscenze ed esprimerti creativament
 - [ ] Configurare [omdapi](https://www.omdbapi.com/) (è un open db di film con 1k richieste possibili al giorno) oppure il proprio servizio backend sviluppato nelle modulo asp.net core
 - [ ] Scegli come scrivere la tua UI, puoi farlo utilizzando una libreria css di tuo gradimento, ne esistono tantissime, tra le più famose [tailwind](https://tailwindcss.com/) (se desideri puoi considerare anche tutte le librerie che usano tailwind come [daisyUI](https://daisyui.com/), [preline](https://preline.co/), [bootstrap](https://getbootstrap.com/) e [bulma](https://bulma.io/), insomma c'è l'imbarazzo della scelta, ma se scrivi il tuo _stile manualmente_ sarà altrettanto gradito
 - [ ] Home Page 
-  - [ ] Costruire un layout come da immagine [!](images/home.png). 
+  - [ ] Costruire un layout come da immagine ![home movie](images/home.png). 
   - [ ] Implementare la ricerca dei film e la visualizzazione di un film
   - [ ] Implementa la logica necessaria per la paginazione
 - [ ] Poster Page
-  - [ ] Costruire un layout come da immagine [!](images/poster.png).
+  - [ ] Costruire un layout come da immagine ![poster](images/poster.png).
   - [ ] L'identificativo del film dovrà essere passato come params nell'url, quindi poi letto e fatta la richiesta con l'id specifico
   - [ ] Visualizza i dati del film selezionato
      
